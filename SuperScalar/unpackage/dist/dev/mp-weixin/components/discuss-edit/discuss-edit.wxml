@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['DiscussADD']]]]}}" class="discuss-edit" bindtap="__e"><uni-icons vue-id="92b0eabc-1" type="compose" bind:__l="__l"></uni-icons></view>

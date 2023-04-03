@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "back-top": "/components/BackTop/BackTop",
+    "discuss-edit": "/components/discuss-edit/discuss-edit"
+  },
+  "component": true
+}

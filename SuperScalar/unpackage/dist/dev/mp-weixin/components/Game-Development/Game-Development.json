@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "three-game-deve": "/components/Game-Development/3DGameDeve/3DGameDeve",
+    "two-game-deve": "/components/Game-Development/2DGameDeve/2DGameDeve",
+    "computer-graphics": "/components/Game-Development/ComputerGraphics/ComputerGraphics",
+    "shader": "/components/Game-Development/Shader/Shader"
+  }
+}

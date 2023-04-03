@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "学习",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "index-search": "/components/index-search/index-search",
+    "index-rotation": "/components/index-Rotation/index-Rotation",
+    "navigation-menu": "/components/navigationMenu/navigationMenu",
+    "learning-swiper": "/components/learning-swiper/learning-swiper"
+  }
+}

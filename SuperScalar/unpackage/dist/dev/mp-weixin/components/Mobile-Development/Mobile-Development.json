@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "ios-system": "/components/Mobile-Development/iosSystem/iosSystem",
+    "android-system": "/components/Mobile-Development/AndroidSystem/AndroidSystem"
+  }
+}

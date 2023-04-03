@@ -1,0 +1,1 @@
+<view class="button-content"><block wx:for="{{buttonInfo}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view data-event-opts="{{[['tap',[['buttonClick',[index]]]]]}}" class="button-Personal_center button-setting" bindtap="__e"><uni-icons vue-id="{{'5e940e68-1-'+index}}" type="{{item.icon}}" bind:__l="__l"></uni-icons><text>{{item.title}}</text></view></block></view>

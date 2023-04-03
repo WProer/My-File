@@ -1,0 +1,52 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/index/index",
+    "pages/textual-criticism/textual-criticism",
+    "pages/discuss/discuss",
+    "pages/Personal-Center/Personal-Center",
+    "pages/register/register",
+    "pages/Personal-Center/Basic-Information/Basic-Information",
+    "pages/Personal-Center/Reminder-Settings/Reminder-Settings",
+    "pages/Personal-Center/Change-Password/Change-Password",
+    "components/Computer-Basics/GitHub-SVN/GitHub-SVN",
+    "pages/DiscussAdd/DiscussAdd"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#000000",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "学习",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "static/select_index.png"
+      },
+      {
+        "pagePath": "pages/textual-criticism/textual-criticism",
+        "text": "考证",
+        "iconPath": "static/textual-criticism.png",
+        "selectedIconPath": "static/select_textual-criticism.png"
+      },
+      {
+        "pagePath": "pages/discuss/discuss",
+        "text": "讨论",
+        "iconPath": "static/discuss.png",
+        "selectedIconPath": "static/select_discuss.png"
+      },
+      {
+        "pagePath": "pages/Personal-Center/Personal-Center",
+        "text": "我的",
+        "iconPath": "static/Personal-Center.png",
+        "selectedIconPath": "static/select_Personal-Center.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

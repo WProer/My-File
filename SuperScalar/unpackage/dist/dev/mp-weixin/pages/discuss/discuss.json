@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "讨论",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "discuss-content": "/components/discuss-content/discuss-content"
+  }
+}

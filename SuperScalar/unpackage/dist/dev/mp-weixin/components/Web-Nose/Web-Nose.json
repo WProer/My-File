@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "h-t-m-l-c-s-s": "/components/Web-Nose/HTMLCSS/HTMLCSS",
+    "j-a-v-a-s-c-r-i-p-t": "/components/Web-Nose/JAVASCRIPT/JAVASCRIPT",
+    "r-e-a-c-t-framework": "/components/Web-Nose/React-Framework/React-Framework",
+    "v-u-e-framework": "/components/Web-Nose/Vue-Framework/Vue-Framework"
+  }
+}

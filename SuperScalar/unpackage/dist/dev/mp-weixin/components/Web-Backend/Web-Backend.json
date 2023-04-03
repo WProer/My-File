@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "j-a-v-a-c-o-n": "/components/Web-Backend/Java-Content/Java-Content",
+    "operating-system": "/components/Web-Backend/Operating-System/Operating-System",
+    "backend-frame": "/components/Web-Backend/Backend-Frame/Backend-Frame"
+  }
+}

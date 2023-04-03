@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "computer-basics": "/components/Computer-Basics/Computer-Basics",
+    "web-nose": "/components/Web-Nose/Web-Nose",
+    "web-backend": "/components/Web-Backend/Web-Backend",
+    "mobile-development": "/components/Mobile-Development/Mobile-Development",
+    "game-development": "/components/Game-Development/Game-Development"
+  },
+  "component": true
+}

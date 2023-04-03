@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "考证",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "topic-exercise": "/components/Topic-Exercise/Topic-Exercise",
+    "textual-criticism": "/components/TextualCriticism/TextualCriticism"
+  }
+}

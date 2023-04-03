@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "clang": "/components/Computer-Basics/C-Language/C-Language",
+    "data-structure": "/components/Computer-Basics/Data-Structure/Data-Structure",
+    "linux": "/components/Computer-Basics/Linux-MACOS/Linux-MACOS",
+    "object-oriented": "/components/Computer-Basics/Object-Oriented/Object-Oriented",
+    "data-bank": "/components/Computer-Basics/Data-Bank/Data-Bank",
+    "git-hub": "/components/Computer-Basics/GitHub-SVN/GitHub-SVN"
+  }
+}

@@ -1,0 +1,1 @@
+<view class="content"><topic-exercise vue-id="674b0694-1" bind:__l="__l"></topic-exercise><view class="TextualCriticism-Menu"><textual-criticism vue-id="674b0694-2" MenuIndex="{{MenuIndex}}" data-event-opts="{{[['^navMenu',[['navMenu']]]]}}" bind:navMenu="__e" bind:__l="__l"></textual-criticism></view></view>
